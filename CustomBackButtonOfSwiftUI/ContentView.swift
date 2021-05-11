@@ -106,7 +106,7 @@ struct SecondView: View {
                     Spacer()
                     
                 }
-                
+                .padding(.top, 4)
             }.iPad { _ in
                 HStack {
                     
