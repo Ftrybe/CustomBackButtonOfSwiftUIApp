@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/arrow-left</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.286275 0 0 0 0 0.274510 0 0 0 0 0.266667 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/arrow-left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g filter="url(#filter-1)" id="arrow-left">
+            <g transform="translate(5.000000, 5.000000)">
+                <line x1="0.5" y1="7" x2="7.5" y2="14" id="Path-46" stroke="#494644" stroke-width="2"></line>
+                <line x1="0.5" y1="7" x2="14" y2="7" id="Path-44" stroke="#494644" stroke-width="2" stroke-linejoin="round"></line>
+                <line x1="0.5" y1="7" x2="7.5" y2="1.11022302e-16" id="Path-45" stroke="#494644" stroke-width="2"></line>
+            </g>
+        </g>
+    </g>
+</svg>
